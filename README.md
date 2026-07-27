@@ -1,6 +1,4 @@
 ## EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### NAME: AALIYA FATHIMA M
-### REG NO: 212223230001
 ### DATE: 27.07.2026
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
